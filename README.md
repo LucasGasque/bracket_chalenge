@@ -14,7 +14,7 @@
 
 ## 🔰 Desafio de Balanceamento de Brackets
 
-Primeiramente, obrigado pelo seu interesse em trabalhar na JustForYou! Abaixo você encontrará todas as informações necessárias para iniciar o seu teste.
+
 
 ## ❓ Problema
 
